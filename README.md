@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🐦‍⬛ Welcome to my GitHub 🐦‍⬛
+
+Hi everyone. Here I'll be adding some of my everyday work 
 
 <!--
 **AuriRaven/AuriRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
