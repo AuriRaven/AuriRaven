@@ -2,7 +2,7 @@
 
 Hi everyone. This is my GitHub Portfolio for my projects. Here I´ll be adding some of my everyday work. 
 
-I'm a graduated Mathematician from Faculty of Sciences UNAM. I'm passionate about many things 
+I'm a graduated Mathematician from Faculty of Sciences UNAM. Besides maths, I'm passionate about some other things, like art, specially music. 
 
 <!--
 **AuriRaven/AuriRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
