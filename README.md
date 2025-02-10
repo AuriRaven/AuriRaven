@@ -1,6 +1,8 @@
 ## 🐦‍⬛ Welcome to my GitHub 🐦‍⬛
 
-Hi everyone. Here I'll be adding some of my everyday work 
+Hi everyone. This is my GitHub Portfolio for my projects. Here I´ll be adding some of my everyday work. 
+
+I'm a graduate Mathematics student from Faculty of Sciences UNAM.   
 
 <!--
 **AuriRaven/AuriRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
